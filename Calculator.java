@@ -5,6 +5,6 @@ public class Calculator {
     static double div(double a, double b) { return a / b; }
 
     public static void demo() {
-        System.out.println("Result: " + add(6, 3));
+        System.out.println("Result = " + add(6, 3));
     }
 }
